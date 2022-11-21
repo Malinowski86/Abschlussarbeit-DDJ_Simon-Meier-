@@ -4,7 +4,7 @@
 
 
 ## Der Artikel
-> Noch unpubliziert (siehe PDF des Textes im Anhang). Die Publikation einer erweiterten Variante des Textes mit den dann aktuellen Daten erfolgt im Frühling nach der Veröffentlichung der neusten Untersuchung des FÖG zur Medienberichterstattung über die Corona-Pandemie.
+> Noch unpubliziert (siehe PDF des Textes im Anhang). Die Publikation einer erweiterten Variante des Textes mit den dann aktuellen Daten ist für den Frühling nach der Veröffentlichung der neusten Untersuchung des FÖG zur Medienberichterstattung über die Corona-Pandemie geplant.
 
 
 ## Ausgangsthese
@@ -12,7 +12,7 @@
 
 
 ## Idee
-> Expertinnen und Experten prägen die Sichtweisen, wie wir ein komplexes Phänomen wahrnehmen. Fachwissen wird heruntergebrochen und vereinfacht, so dass eine breite Öffentlichkeit einen wissenschaftlichen Sachverhalt besser verstehe kann. Für ein Ausnahmeereignis wie die Corona-Pandemie, kommt Virologen, die gegenüber der Öffentlichkeit die Funktionsweise des Virus und der Pandemie erklären, eine Schlüsselrolle zu. Obwohl es in der Schweiz mehrere Virologinen in führenden Forschungspositionen gibt, etwa Isabella Eckerle, Leiterin der Abteilung für Infektionskrankheiten am Universitätsspital Genf oder Emma Hodcroft, Epidemiologin an der Universität Bern, kamen bei der Berichterstattung während der ersten Welle vor allem männliche Epidemologen zu Wort. Davon ausgehend wollte ich untersuchen, wie es sich mit der Gewichtung von Forscherinnen bei COVID-19 Forschungspapern verhält. Gibt es auch hier ein Ungleichgewicht der Geschlechterverteilung? 
+> Expertinnen und Experten prägen die Sichtweisen, wie wir ein komplexes Phänomen wahrnehmen. Fachwissen wird heruntergebrochen und vereinfacht, so dass eine breite Öffentlichkeit einen wissenschaftlichen Sachverhalt besser verstehe kann. Für ein Ausnahmeereignis wie die Corona-Pandemie kommt Virologeninnen, die gegenüber der Öffentlichkeit die Funktionsweise des Virus und der Pandemie erklären, eine Schlüsselrolle zu. Obwohl es in der Schweiz mehrere Virologinen in führenden Forschungspositionen gibt, etwa Isabella Eckerle, Leiterin der Abteilung für Infektionskrankheiten am Universitätsspital Genf oder Emma Hodcroft, Epidemiologin an der Universität Bern, kamen bei der Berichterstattung während der ersten Welle vor allem männliche Epidemologen zu Wort. Davon ausgehend wollte ich untersuchen, wie es sich mit der Gewichtung von Forscherinnen bei COVID-19 Forschungspapern verhält. Gibt es auch hier ein Ungleichgewicht der Geschlechterverteilung? 
 
 ## Einschätzung von Aufwand/Ertrag
 > Die internationale PUB-MED Forschungsdatenbank, mit der ich arbeiten möchte, ist gut strukturiert. Ich kann die Suchergebnisse als csv-Datei abspeichern. Allerdings sind ausgerechnet bei den Vornamen, die für eine Analyse des Geschlechts der Forscher_innen entscheidend sind, die Daten abgekürzt. Sie bestehen nur aus dem ersten Buchstaben. Auch die Informationen zu den Instituten der Forscher_innen sind nur in den separat abrufbaren Metadaten vorhanden. Dies macht die Zuordnung zum bestehenden Datensatz in der csv-Datei umständlich. 
